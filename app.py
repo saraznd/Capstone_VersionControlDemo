@@ -125,12 +125,19 @@ with st.expander("About the Creators", expanded=False):
     st.write("""
     This dashboard was developed by **Alana Jacobson-Pepere** and **Earl Tavera**.
 
+<<<<<<< HEAD
     Combining expertise in data science, artificial intelligence, and environmental regulation, their goal was to create a powerful yet accessible tool for stakeholders in Auckland. They are passionate about leveraging technology to simplify complex data, empower informed decision-making, and contribute to the sustainable management of our city's resources. We are great!
+=======
+    Combining expertise in data science, artificial intelligence, and environmental regulation, their goal was to create a powerful yet accessible tool for stakeholders in Auckland. They are passionate about leveraging technology to simplify complex data, empower informed decision-making, and contribute to the sustainable management of our city's resources. We are prefect
+>>>>>>> catbranch
     """)
 st.markdown("---")
 # --- END: "About Us" Section ---
 
+<<<<<<< HEAD
 print("I am a clever cat!!!!!!!!")
+=======
+>>>>>>> catbranch
 
 
 # --- Utility Functions ---
