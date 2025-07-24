@@ -125,11 +125,11 @@ with st.expander("About the Creators", expanded=False):
     st.write("""
     This dashboard was developed by **Alana Jacobson-Pepere** and **Earl Tavera**.
 
-    Combining expertise in data science, artificial intelligence, and environmental regulation, their goal was to create a powerful yet accessible tool for stakeholders in Auckland. They are passionate about leveraging technology to simplify complex data, empower informed decision-making, and contribute to the sustainable management of our city's resources.
+    Combining expertise in data science, artificial intelligence, and environmental regulation, their goal was to create a powerful yet accessible tool for stakeholders in Auckland. They are passionate about leveraging technology to simplify complex data, empower informed decision-making, and contribute to the sustainable management of our city's resources. We are prefect
     """)
 st.markdown("---")
 # --- END: "About Us" Section ---
-print("I am a clever cat!!!!!!!!")
+
 
 # --- Utility Functions ---
 def localize_to_auckland(dt):
