@@ -130,6 +130,8 @@ with st.expander("About the Creators", expanded=False):
 st.markdown("---")
 # --- END: "About Us" Section ---
 
+print("I am a clever cat!!!!!!!!")
+
 
 # --- Utility Functions ---
 def localize_to_auckland(dt):
