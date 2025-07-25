@@ -89,7 +89,7 @@ st.markdown("""
 st.markdown("---")
 with st.expander("About the Auckland Air Discharge Consent Dashboard", expanded=False):
     st.write("""
-    Kia Ora! Welcome to the **Auckland Air Discharge Consent Dashboard**, a pioneering tool designed to revolutionize how we interact with critical environmental data. In Auckland, managing **Air Discharge Resource Consents** is vital for maintaining our air quality and ensuring regulatory compliance. Traditionally, this information has been locked away in numerous, disparate PDF reports, making it incredibly challenging to access, analyze, and monitor effectively.
+    Kia Ora! Welcome to the ***Auckland Air Discharge Consent Dashboard***, a pioneering tool designed to revolutionize how we interact with critical environmental data. In Auckland, managing **Air Discharge Resource Consents** is vital for maintaining our air quality and ensuring regulatory compliance. Traditionally, this information has been locked away in numerous, disparate PDF reports, making it incredibly challenging to access, analyze, and monitor effectively.
 
     This dashboard addresses that very challenge head-on. We've developed a user-friendly, web-based application that automatically extracts, visualizes, and analyzes data from these PDF consent reports. Our key innovation lies in leveraging **Artificial Intelligence (AI)**, including **Large Language Models (LLMs)**, to transform static documents into dynamic, searchable insights. This means you can now effortlessly track consent statuses, identify expiring permits, and even query the data using natural language, asking questions like, "Which companies have expired consents?" or "What conditions apply to dust emissions?".
 
